@@ -1,4 +1,5 @@
 # Pong_Game
-Author: Akshitaa
+Author: Akshita
 <br>
 a ball and paddle game using numpy and openCV
+
